@@ -1,0 +1,967 @@
+{
+    "token_list": [
+        "余",
+        "讀",
+        "諜",
+        "記",
+        "，",
+        "黃帝",
+        "以",
+        "來",
+        "皆",
+        "有",
+        "年數",
+        "。",
+        "稽",
+        "其",
+        "歷譜",
+        "諜",
+        "終始五德",
+        "之",
+        "傳",
+        "，",
+        "古文",
+        "咸",
+        "不",
+        "同",
+        "，",
+        "乖異",
+        "。",
+        "夫子",
+        "之",
+        "弗",
+        "論",
+        "次",
+        "其",
+        "年月",
+        "，",
+        "豈",
+        "虛",
+        "哉",
+        "！",
+        "於是",
+        "以",
+        "五帝",
+        "系諜",
+        "、",
+        "尚書",
+        "集",
+        "世紀",
+        "黃帝",
+        "以",
+        "來",
+        "訖",
+        "共和",
+        "為",
+        "世表"
+    ],
+    "entities": {
+        "NH": [
+            [
+                "余",
+                0,
+                1
+            ],
+            [
+                "其",
+                15,
+                16
+            ],
+            [
+                "夫子",
+                35,
+                37
+            ],
+            [
+                "其",
+                41,
+                42
+            ]
+        ],
+        "VC1": [
+            [
+                "讀",
+                1,
+                2
+            ]
+        ],
+        "NB2": [
+            [
+                "諜",
+                2,
+                3
+            ],
+            [
+                "尚書",
+                57,
+                59
+            ],
+            [
+                "世紀",
+                60,
+                62
+            ]
+        ],
+        "NA2": [
+            [
+                "記",
+                3,
+                4
+            ],
+            [
+                "歷譜",
+                16,
+                18
+            ]
+        ],
+        "COMMACATEGORY": [
+            [
+                "，",
+                4,
+                5
+            ],
+            [
+                "，",
+                25,
+                26
+            ],
+            [
+                "，",
+                31,
+                32
+            ],
+            [
+                "，",
+                44,
+                45
+            ]
+        ],
+        "NB1": [
+            [
+                "黃帝",
+                5,
+                7
+            ],
+            [
+                "五帝",
+                52,
+                54
+            ],
+            [
+                "黃帝",
+                62,
+                64
+            ]
+        ],
+        "P": [
+            [
+                "以",
+                7,
+                8
+            ],
+            [
+                "以",
+                51,
+                52
+            ],
+            [
+                "以",
+                64,
+                65
+            ]
+        ],
+        "VA": [
+            [
+                "來",
+                8,
+                9
+            ],
+            [
+                "來",
+                65,
+                66
+            ]
+        ],
+        "DA": [
+            [
+                "皆",
+                9,
+                10
+            ],
+            [
+                "咸",
+                28,
+                29
+            ]
+        ],
+        "VG": [
+            [
+                "有",
+                10,
+                11
+            ],
+            [
+                "為",
+                69,
+                70
+            ]
+        ],
+        "NI": [
+            [
+                "年數",
+                11,
+                13
+            ],
+            [
+                "終始五德",
+                19,
+                23
+            ],
+            [
+                "傳",
+                24,
+                25
+            ],
+            [
+                "古文",
+                26,
+                28
+            ],
+            [
+                "共和",
+                67,
+                69
+            ],
+            [
+                "世表",
+                70,
+                72
+            ]
+        ],
+        "PERIODCATEGORY": [
+            [
+                "。",
+                13,
+                14
+            ],
+            [
+                "。",
+                34,
+                35
+            ]
+        ],
+        "VC2": [
+            [
+                "稽",
+                14,
+                15
+            ]
+        ],
+        "U": [
+            [
+                "諜",
+                18,
+                19
+            ]
+        ],
+        "T": [
+            [
+                "之",
+                23,
+                24
+            ],
+            [
+                "之",
+                37,
+                38
+            ],
+            [
+                "哉",
+                47,
+                48
+            ],
+            [
+                "訖",
+                66,
+                67
+            ]
+        ],
+        "DC": [
+            [
+                "不",
+                29,
+                30
+            ],
+            [
+                "弗",
+                38,
+                39
+            ]
+        ],
+        "VH1": [
+            [
+                "同",
+                30,
+                31
+            ],
+            [
+                "乖異",
+                32,
+                34
+            ],
+            [
+                "虛",
+                46,
+                47
+            ]
+        ],
+        "VC1X": [
+            [
+                "論",
+                39,
+                40
+            ]
+        ],
+        "VP": [
+            [
+                "次",
+                40,
+                41
+            ],
+            [
+                "集",
+                59,
+                60
+            ]
+        ],
+        "NA5": [
+            [
+                "年月",
+                42,
+                44
+            ]
+        ],
+        "DB": [
+            [
+                "豈",
+                45,
+                46
+            ]
+        ],
+        "EXCLANATIONCATEGORY": [
+            [
+                "！",
+                48,
+                49
+            ]
+        ],
+        "C": [
+            [
+                "於是",
+                49,
+                51
+            ]
+        ],
+        "NA1": [
+            [
+                "系諜",
+                54,
+                56
+            ]
+        ],
+        "PAUSECATEGORY": [
+            [
+                "、",
+                56,
+                57
+            ]
+        ]
+    },
+    "sentence": "余讀諜記，黃帝以來皆有年數。稽其歷譜諜終始五德之傳，古文咸不同，乖異。夫子之弗論次其年月，豈虛哉！於是以五帝系諜、尚書集世紀黃帝以來訖共和為世表。",
+    "tokens": [
+        {
+            "entity": "NH",
+            "score": 0.9746762,
+            "index": 1,
+            "word": "余",
+            "start": 0,
+            "end": 1
+        },
+        {
+            "entity": "VC1",
+            "score": 0.9959116,
+            "index": 2,
+            "word": "讀",
+            "start": 1,
+            "end": 2
+        },
+        {
+            "entity": "NB2",
+            "score": 0.7696415,
+            "index": 3,
+            "word": "諜",
+            "start": 2,
+            "end": 3
+        },
+        {
+            "entity": "NA2",
+            "score": 0.5155259,
+            "index": 4,
+            "word": "記",
+            "start": 3,
+            "end": 4
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99673486,
+            "index": 5,
+            "word": "，",
+            "start": 4,
+            "end": 5
+        },
+        {
+            "entity": "NB1",
+            "score": 0.99047905,
+            "index": 6,
+            "word": "黃",
+            "start": 5,
+            "end": 6
+        },
+        {
+            "entity": "NB1",
+            "score": 0.9907602,
+            "index": 7,
+            "word": "帝",
+            "start": 6,
+            "end": 7
+        },
+        {
+            "entity": "P",
+            "score": 0.9873579,
+            "index": 8,
+            "word": "以",
+            "start": 7,
+            "end": 8
+        },
+        {
+            "entity": "VA",
+            "score": 0.74043924,
+            "index": 9,
+            "word": "來",
+            "start": 8,
+            "end": 9
+        },
+        {
+            "entity": "DA",
+            "score": 0.9959858,
+            "index": 10,
+            "word": "皆",
+            "start": 9,
+            "end": 10
+        },
+        {
+            "entity": "VG",
+            "score": 0.99533397,
+            "index": 11,
+            "word": "有",
+            "start": 10,
+            "end": 11
+        },
+        {
+            "entity": "NI",
+            "score": 0.9589304,
+            "index": 12,
+            "word": "年",
+            "start": 11,
+            "end": 12
+        },
+        {
+            "entity": "NI",
+            "score": 0.98810995,
+            "index": 13,
+            "word": "數",
+            "start": 12,
+            "end": 13
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.9745285,
+            "index": 14,
+            "word": "。",
+            "start": 13,
+            "end": 14
+        },
+        {
+            "entity": "VC2",
+            "score": 0.8245625,
+            "index": 15,
+            "word": "稽",
+            "start": 14,
+            "end": 15
+        },
+        {
+            "entity": "NH",
+            "score": 0.9830988,
+            "index": 16,
+            "word": "其",
+            "start": 15,
+            "end": 16
+        },
+        {
+            "entity": "NA2",
+            "score": 0.45093793,
+            "index": 17,
+            "word": "歷",
+            "start": 16,
+            "end": 17
+        },
+        {
+            "entity": "NA2",
+            "score": 0.7798798,
+            "index": 18,
+            "word": "譜",
+            "start": 17,
+            "end": 18
+        },
+        {
+            "entity": "U",
+            "score": 0.24194412,
+            "index": 19,
+            "word": "諜",
+            "start": 18,
+            "end": 19
+        },
+        {
+            "entity": "NI",
+            "score": 0.95037884,
+            "index": 20,
+            "word": "終",
+            "start": 19,
+            "end": 20
+        },
+        {
+            "entity": "NI",
+            "score": 0.8845949,
+            "index": 21,
+            "word": "始",
+            "start": 20,
+            "end": 21
+        },
+        {
+            "entity": "NI",
+            "score": 0.8354413,
+            "index": 22,
+            "word": "五",
+            "start": 21,
+            "end": 22
+        },
+        {
+            "entity": "NI",
+            "score": 0.96134156,
+            "index": 23,
+            "word": "德",
+            "start": 22,
+            "end": 23
+        },
+        {
+            "entity": "T",
+            "score": 0.99598974,
+            "index": 24,
+            "word": "之",
+            "start": 23,
+            "end": 24
+        },
+        {
+            "entity": "NI",
+            "score": 0.5166341,
+            "index": 25,
+            "word": "傳",
+            "start": 24,
+            "end": 25
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.9969858,
+            "index": 26,
+            "word": "，",
+            "start": 25,
+            "end": 26
+        },
+        {
+            "entity": "NI",
+            "score": 0.5687375,
+            "index": 27,
+            "word": "古",
+            "start": 26,
+            "end": 27
+        },
+        {
+            "entity": "NI",
+            "score": 0.83630866,
+            "index": 28,
+            "word": "文",
+            "start": 27,
+            "end": 28
+        },
+        {
+            "entity": "DA",
+            "score": 0.9656,
+            "index": 29,
+            "word": "咸",
+            "start": 28,
+            "end": 29
+        },
+        {
+            "entity": "DC",
+            "score": 0.983474,
+            "index": 30,
+            "word": "不",
+            "start": 29,
+            "end": 30
+        },
+        {
+            "entity": "VH1",
+            "score": 0.97824603,
+            "index": 31,
+            "word": "同",
+            "start": 30,
+            "end": 31
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.9890164,
+            "index": 32,
+            "word": "，",
+            "start": 31,
+            "end": 32
+        },
+        {
+            "entity": "VH1",
+            "score": 0.93327487,
+            "index": 33,
+            "word": "乖",
+            "start": 32,
+            "end": 33
+        },
+        {
+            "entity": "VH1",
+            "score": 0.9279094,
+            "index": 34,
+            "word": "異",
+            "start": 33,
+            "end": 34
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.9736832,
+            "index": 35,
+            "word": "。",
+            "start": 34,
+            "end": 35
+        },
+        {
+            "entity": "NH",
+            "score": 0.5092203,
+            "index": 36,
+            "word": "夫",
+            "start": 35,
+            "end": 36
+        },
+        {
+            "entity": "NH",
+            "score": 0.5074062,
+            "index": 37,
+            "word": "子",
+            "start": 36,
+            "end": 37
+        },
+        {
+            "entity": "T",
+            "score": 0.9829759,
+            "index": 38,
+            "word": "之",
+            "start": 37,
+            "end": 38
+        },
+        {
+            "entity": "DC",
+            "score": 0.982537,
+            "index": 39,
+            "word": "弗",
+            "start": 38,
+            "end": 39
+        },
+        {
+            "entity": "VC1X",
+            "score": 0.42489675,
+            "index": 40,
+            "word": "論",
+            "start": 39,
+            "end": 40
+        },
+        {
+            "entity": "VP",
+            "score": 0.35813484,
+            "index": 41,
+            "word": "次",
+            "start": 40,
+            "end": 41
+        },
+        {
+            "entity": "NH",
+            "score": 0.98915,
+            "index": 42,
+            "word": "其",
+            "start": 41,
+            "end": 42
+        },
+        {
+            "entity": "NA5",
+            "score": 0.9714481,
+            "index": 43,
+            "word": "年",
+            "start": 42,
+            "end": 43
+        },
+        {
+            "entity": "NA5",
+            "score": 0.99156207,
+            "index": 44,
+            "word": "月",
+            "start": 43,
+            "end": 44
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.9963086,
+            "index": 45,
+            "word": "，",
+            "start": 44,
+            "end": 45
+        },
+        {
+            "entity": "DB",
+            "score": 0.98578495,
+            "index": 46,
+            "word": "豈",
+            "start": 45,
+            "end": 46
+        },
+        {
+            "entity": "VH1",
+            "score": 0.9926466,
+            "index": 47,
+            "word": "虛",
+            "start": 46,
+            "end": 47
+        },
+        {
+            "entity": "T",
+            "score": 0.9853247,
+            "index": 48,
+            "word": "哉",
+            "start": 47,
+            "end": 48
+        },
+        {
+            "entity": "EXCLANATIONCATEGORY",
+            "score": 0.9689,
+            "index": 49,
+            "word": "！",
+            "start": 48,
+            "end": 49
+        },
+        {
+            "entity": "C",
+            "score": 0.7516412,
+            "index": 50,
+            "word": "於",
+            "start": 49,
+            "end": 50
+        },
+        {
+            "entity": "C",
+            "score": 0.9624424,
+            "index": 51,
+            "word": "是",
+            "start": 50,
+            "end": 51
+        },
+        {
+            "entity": "P",
+            "score": 0.99834937,
+            "index": 52,
+            "word": "以",
+            "start": 51,
+            "end": 52
+        },
+        {
+            "entity": "NB1",
+            "score": 0.8964999,
+            "index": 53,
+            "word": "五",
+            "start": 52,
+            "end": 53
+        },
+        {
+            "entity": "NB1",
+            "score": 0.75321,
+            "index": 54,
+            "word": "帝",
+            "start": 53,
+            "end": 54
+        },
+        {
+            "entity": "NA1",
+            "score": 0.28931883,
+            "index": 55,
+            "word": "系",
+            "start": 54,
+            "end": 55
+        },
+        {
+            "entity": "NA1",
+            "score": 0.34385237,
+            "index": 56,
+            "word": "諜",
+            "start": 55,
+            "end": 56
+        },
+        {
+            "entity": "PAUSECATEGORY",
+            "score": 0.99957126,
+            "index": 57,
+            "word": "、",
+            "start": 56,
+            "end": 57
+        },
+        {
+            "entity": "NB2",
+            "score": 0.97298974,
+            "index": 58,
+            "word": "尚",
+            "start": 57,
+            "end": 58
+        },
+        {
+            "entity": "NB2",
+            "score": 0.94190776,
+            "index": 59,
+            "word": "書",
+            "start": 58,
+            "end": 59
+        },
+        {
+            "entity": "VP",
+            "score": 0.56635094,
+            "index": 60,
+            "word": "集",
+            "start": 59,
+            "end": 60
+        },
+        {
+            "entity": "NB2",
+            "score": 0.5222826,
+            "index": 61,
+            "word": "世",
+            "start": 60,
+            "end": 61
+        },
+        {
+            "entity": "NB2",
+            "score": 0.8177461,
+            "index": 62,
+            "word": "紀",
+            "start": 61,
+            "end": 62
+        },
+        {
+            "entity": "NB1",
+            "score": 0.90708476,
+            "index": 63,
+            "word": "黃",
+            "start": 62,
+            "end": 63
+        },
+        {
+            "entity": "NB1",
+            "score": 0.96869516,
+            "index": 64,
+            "word": "帝",
+            "start": 63,
+            "end": 64
+        },
+        {
+            "entity": "P",
+            "score": 0.99048334,
+            "index": 65,
+            "word": "以",
+            "start": 64,
+            "end": 65
+        },
+        {
+            "entity": "VA",
+            "score": 0.93830794,
+            "index": 66,
+            "word": "來",
+            "start": 65,
+            "end": 66
+        },
+        {
+            "entity": "T",
+            "score": 0.42544433,
+            "index": 67,
+            "word": "訖",
+            "start": 66,
+            "end": 67
+        },
+        {
+            "entity": "NI",
+            "score": 0.42211473,
+            "index": 68,
+            "word": "共",
+            "start": 67,
+            "end": 68
+        },
+        {
+            "entity": "NI",
+            "score": 0.5804898,
+            "index": 69,
+            "word": "和",
+            "start": 68,
+            "end": 69
+        },
+        {
+            "entity": "VG",
+            "score": 0.9957951,
+            "index": 70,
+            "word": "為",
+            "start": 69,
+            "end": 70
+        },
+        {
+            "entity": "NI",
+            "score": 0.9292683,
+            "index": 71,
+            "word": "世",
+            "start": 70,
+            "end": 71
+        },
+        {
+            "entity": "NI",
+            "score": 0.9389354,
+            "index": 72,
+            "word": "表",
+            "start": 71,
+            "end": 72
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.97709405,
+            "index": 73,
+            "word": "。",
+            "start": 72,
+            "end": 73
+        }
+    ]
+}

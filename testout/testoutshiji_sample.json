@@ -1,0 +1,1311 @@
+{
+    "token_list": [
+        "太史公",
+        "曰",
+        "：",
+        "五帝",
+        "、",
+        "三代",
+        "之",
+        "記",
+        "，",
+        "尚",
+        "矣",
+        "。",
+        "自",
+        "殷",
+        "以",
+        "前",
+        "諸侯",
+        "不",
+        "可得而",
+        "譜",
+        "，",
+        "周",
+        "以",
+        "來",
+        "乃",
+        "頗",
+        "可",
+        "著",
+        "。",
+        "孔子",
+        "因",
+        "史",
+        "文",
+        "次",
+        "春秋",
+        "，",
+        "紀",
+        "元年",
+        "，",
+        "正時",
+        "日月",
+        "，",
+        "蓋",
+        "其",
+        "詳",
+        "哉",
+        "。",
+        "至",
+        "於",
+        "序",
+        "尚",
+        "書",
+        "則",
+        "略",
+        "，",
+        "無",
+        "年月",
+        "；",
+        "或",
+        "頗",
+        "有",
+        "，",
+        "然",
+        "多",
+        "闕",
+        "，",
+        "不",
+        "可",
+        "錄",
+        "。",
+        "故",
+        "疑",
+        "則",
+        "傳",
+        "疑",
+        "，",
+        "蓋",
+        "其",
+        "慎",
+        "也"
+    ],
+    "entities": {
+        "NB1": [
+            [
+                "太史公",
+                0,
+                3
+            ],
+            [
+                "五帝",
+                5,
+                7
+            ],
+            [
+                "孔子",
+                36,
+                38
+            ]
+        ],
+        "VE": [
+            [
+                "曰",
+                3,
+                4
+            ]
+        ],
+        "COLONCATEGORY": [
+            [
+                "：",
+                4,
+                5
+            ]
+        ],
+        "PAUSECATEGORY": [
+            [
+                "、",
+                7,
+                8
+            ]
+        ],
+        "NB5": [
+            [
+                "三代",
+                8,
+                10
+            ],
+            [
+                "殷",
+                17,
+                18
+            ],
+            [
+                "周",
+                28,
+                29
+            ],
+            [
+                "紀",
+                45,
+                46
+            ]
+        ],
+        "T": [
+            [
+                "之",
+                10,
+                11
+            ],
+            [
+                "矣",
+                14,
+                15
+            ],
+            [
+                "哉",
+                57,
+                58
+            ],
+            [
+                "也",
+                92,
+                93
+            ]
+        ],
+        "NA2": [
+            [
+                "記",
+                11,
+                12
+            ],
+            [
+                "史",
+                39,
+                40
+            ],
+            [
+                "書",
+                63,
+                64
+            ]
+        ],
+        "COMMACATEGORY": [
+            [
+                "，",
+                12,
+                13
+            ],
+            [
+                "，",
+                27,
+                28
+            ],
+            [
+                "，",
+                44,
+                45
+            ],
+            [
+                "，",
+                48,
+                49
+            ],
+            [
+                "，",
+                53,
+                54
+            ],
+            [
+                "，",
+                66,
+                67
+            ],
+            [
+                "，",
+                74,
+                75
+            ],
+            [
+                "，",
+                78,
+                79
+            ],
+            [
+                "，",
+                88,
+                89
+            ]
+        ],
+        "VA": [
+            [
+                "尚",
+                13,
+                14
+            ],
+            [
+                "來",
+                30,
+                31
+            ],
+            [
+                "至",
+                59,
+                60
+            ]
+        ],
+        "PERIODCATEGORY": [
+            [
+                "。",
+                15,
+                16
+            ],
+            [
+                "。",
+                35,
+                36
+            ],
+            [
+                "。",
+                58,
+                59
+            ],
+            [
+                "。",
+                82,
+                83
+            ]
+        ],
+        "P": [
+            [
+                "自",
+                16,
+                17
+            ],
+            [
+                "以",
+                18,
+                19
+            ],
+            [
+                "以",
+                29,
+                30
+            ],
+            [
+                "於",
+                60,
+                61
+            ]
+        ],
+        "NG": [
+            [
+                "前",
+                19,
+                20
+            ]
+        ],
+        "NA3": [
+            [
+                "諸侯",
+                20,
+                22
+            ]
+        ],
+        "DC": [
+            [
+                "不",
+                22,
+                23
+            ],
+            [
+                "不",
+                79,
+                80
+            ]
+        ],
+        "VM": [
+            [
+                "可得而",
+                23,
+                26
+            ],
+            [
+                "可",
+                33,
+                34
+            ],
+            [
+                "可",
+                80,
+                81
+            ]
+        ],
+        "VC1O": [
+            [
+                "譜",
+                26,
+                27
+            ]
+        ],
+        "DL": [
+            [
+                "乃",
+                31,
+                32
+            ]
+        ],
+        "DF": [
+            [
+                "頗",
+                32,
+                33
+            ],
+            [
+                "頗",
+                72,
+                73
+            ]
+        ],
+        "VC2W": [
+            [
+                "著",
+                34,
+                35
+            ]
+        ],
+        "VJ": [
+            [
+                "因",
+                38,
+                39
+            ]
+        ],
+        "NI": [
+            [
+                "文",
+                40,
+                41
+            ],
+            [
+                "疑",
+                87,
+                88
+            ]
+        ],
+        "VP": [
+            [
+                "次",
+                41,
+                42
+            ],
+            [
+                "序",
+                61,
+                62
+            ]
+        ],
+        "NA5": [
+            [
+                "春秋",
+                42,
+                44
+            ],
+            [
+                "元年",
+                46,
+                48
+            ],
+            [
+                "正時",
+                49,
+                51
+            ],
+            [
+                "年月",
+                68,
+                70
+            ]
+        ],
+        "NB2": [
+            [
+                "日月",
+                51,
+                53
+            ],
+            [
+                "尚",
+                62,
+                63
+            ]
+        ],
+        "DB": [
+            [
+                "蓋",
+                54,
+                55
+            ],
+            [
+                "蓋",
+                89,
+                90
+            ]
+        ],
+        "NH": [
+            [
+                "其",
+                55,
+                56
+            ],
+            [
+                "或",
+                71,
+                72
+            ],
+            [
+                "其",
+                90,
+                91
+            ]
+        ],
+        "VH1": [
+            [
+                "詳",
+                56,
+                57
+            ],
+            [
+                "略",
+                65,
+                66
+            ],
+            [
+                "闕",
+                77,
+                78
+            ],
+            [
+                "慎",
+                91,
+                92
+            ]
+        ],
+        "C": [
+            [
+                "則",
+                64,
+                65
+            ],
+            [
+                "然",
+                75,
+                76
+            ],
+            [
+                "故",
+                83,
+                84
+            ],
+            [
+                "則",
+                85,
+                86
+            ]
+        ],
+        "VG": [
+            [
+                "無",
+                67,
+                68
+            ]
+        ],
+        "SEMICOLONCATEGORY": [
+            [
+                "；",
+                70,
+                71
+            ]
+        ],
+        "VGO": [
+            [
+                "有",
+                73,
+                74
+            ]
+        ],
+        "DV": [
+            [
+                "多",
+                76,
+                77
+            ]
+        ],
+        "VC1W": [
+            [
+                "錄",
+                81,
+                82
+            ]
+        ],
+        "VH2": [
+            [
+                "疑",
+                84,
+                85
+            ]
+        ],
+        "VC2": [
+            [
+                "傳",
+                86,
+                87
+            ]
+        ]
+    },
+    "sentence": "太史公曰：五帝、三代之記，尚矣。自殷以前諸侯不可得而譜，周以來乃頗可著。孔子因史文次春秋，紀元年，正時日月，蓋其詳哉。至於序尚書則略，無年月；或頗有，然多闕，不可錄。故疑則傳疑，蓋其慎也。",
+    "tokens": [
+        {
+            "entity": "NB1",
+            "score": 0.9950842,
+            "index": 1,
+            "word": "太",
+            "start": 0,
+            "end": 1
+        },
+        {
+            "entity": "NB1",
+            "score": 0.995609,
+            "index": 2,
+            "word": "史",
+            "start": 1,
+            "end": 2
+        },
+        {
+            "entity": "NB1",
+            "score": 0.9961628,
+            "index": 3,
+            "word": "公",
+            "start": 2,
+            "end": 3
+        },
+        {
+            "entity": "VE",
+            "score": 0.99773806,
+            "index": 4,
+            "word": "曰",
+            "start": 3,
+            "end": 4
+        },
+        {
+            "entity": "COLONCATEGORY",
+            "score": 0.9997247,
+            "index": 5,
+            "word": "：",
+            "start": 4,
+            "end": 5
+        },
+        {
+            "entity": "NB1",
+            "score": 0.9190885,
+            "index": 6,
+            "word": "五",
+            "start": 5,
+            "end": 6
+        },
+        {
+            "entity": "NB1",
+            "score": 0.8747756,
+            "index": 7,
+            "word": "帝",
+            "start": 6,
+            "end": 7
+        },
+        {
+            "entity": "PAUSECATEGORY",
+            "score": 0.9987756,
+            "index": 8,
+            "word": "、",
+            "start": 7,
+            "end": 8
+        },
+        {
+            "entity": "NB5",
+            "score": 0.9700715,
+            "index": 9,
+            "word": "三",
+            "start": 8,
+            "end": 9
+        },
+        {
+            "entity": "NB5",
+            "score": 0.8513565,
+            "index": 10,
+            "word": "代",
+            "start": 9,
+            "end": 10
+        },
+        {
+            "entity": "T",
+            "score": 0.9955144,
+            "index": 11,
+            "word": "之",
+            "start": 10,
+            "end": 11
+        },
+        {
+            "entity": "NA2",
+            "score": 0.87444836,
+            "index": 12,
+            "word": "記",
+            "start": 11,
+            "end": 12
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99370325,
+            "index": 13,
+            "word": "，",
+            "start": 12,
+            "end": 13
+        },
+        {
+            "entity": "VA",
+            "score": 0.26898065,
+            "index": 14,
+            "word": "尚",
+            "start": 13,
+            "end": 14
+        },
+        {
+            "entity": "T",
+            "score": 0.9853678,
+            "index": 15,
+            "word": "矣",
+            "start": 14,
+            "end": 15
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.9986724,
+            "index": 16,
+            "word": "。",
+            "start": 15,
+            "end": 16
+        },
+        {
+            "entity": "P",
+            "score": 0.9937057,
+            "index": 17,
+            "word": "自",
+            "start": 16,
+            "end": 17
+        },
+        {
+            "entity": "NB5",
+            "score": 0.98932695,
+            "index": 18,
+            "word": "殷",
+            "start": 17,
+            "end": 18
+        },
+        {
+            "entity": "P",
+            "score": 0.8093416,
+            "index": 19,
+            "word": "以",
+            "start": 18,
+            "end": 19
+        },
+        {
+            "entity": "NG",
+            "score": 0.98248106,
+            "index": 20,
+            "word": "前",
+            "start": 19,
+            "end": 20
+        },
+        {
+            "entity": "NA3",
+            "score": 0.9983556,
+            "index": 21,
+            "word": "諸",
+            "start": 20,
+            "end": 21
+        },
+        {
+            "entity": "NA3",
+            "score": 0.99619144,
+            "index": 22,
+            "word": "侯",
+            "start": 21,
+            "end": 22
+        },
+        {
+            "entity": "DC",
+            "score": 0.9970359,
+            "index": 23,
+            "word": "不",
+            "start": 22,
+            "end": 23
+        },
+        {
+            "entity": "VM",
+            "score": 0.99891126,
+            "index": 24,
+            "word": "可",
+            "start": 23,
+            "end": 24
+        },
+        {
+            "entity": "VM",
+            "score": 0.9602092,
+            "index": 25,
+            "word": "得",
+            "start": 24,
+            "end": 25
+        },
+        {
+            "entity": "VM",
+            "score": 0.60599315,
+            "index": 26,
+            "word": "而",
+            "start": 25,
+            "end": 26
+        },
+        {
+            "entity": "VC1O",
+            "score": 0.6898148,
+            "index": 27,
+            "word": "譜",
+            "start": 26,
+            "end": 27
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99281335,
+            "index": 28,
+            "word": "，",
+            "start": 27,
+            "end": 28
+        },
+        {
+            "entity": "NB5",
+            "score": 0.98023087,
+            "index": 29,
+            "word": "周",
+            "start": 28,
+            "end": 29
+        },
+        {
+            "entity": "P",
+            "score": 0.9891527,
+            "index": 30,
+            "word": "以",
+            "start": 29,
+            "end": 30
+        },
+        {
+            "entity": "VA",
+            "score": 0.671136,
+            "index": 31,
+            "word": "來",
+            "start": 30,
+            "end": 31
+        },
+        {
+            "entity": "DL",
+            "score": 0.95532143,
+            "index": 32,
+            "word": "乃",
+            "start": 31,
+            "end": 32
+        },
+        {
+            "entity": "DF",
+            "score": 0.98244035,
+            "index": 33,
+            "word": "頗",
+            "start": 32,
+            "end": 33
+        },
+        {
+            "entity": "VM",
+            "score": 0.99711686,
+            "index": 34,
+            "word": "可",
+            "start": 33,
+            "end": 34
+        },
+        {
+            "entity": "VC2W",
+            "score": 0.6714251,
+            "index": 35,
+            "word": "著",
+            "start": 34,
+            "end": 35
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.98097247,
+            "index": 36,
+            "word": "。",
+            "start": 35,
+            "end": 36
+        },
+        {
+            "entity": "NB1",
+            "score": 0.9907888,
+            "index": 37,
+            "word": "孔",
+            "start": 36,
+            "end": 37
+        },
+        {
+            "entity": "NB1",
+            "score": 0.9891058,
+            "index": 38,
+            "word": "子",
+            "start": 37,
+            "end": 38
+        },
+        {
+            "entity": "VJ",
+            "score": 0.43027735,
+            "index": 39,
+            "word": "因",
+            "start": 38,
+            "end": 39
+        },
+        {
+            "entity": "NA2",
+            "score": 0.47547612,
+            "index": 40,
+            "word": "史",
+            "start": 39,
+            "end": 40
+        },
+        {
+            "entity": "NI",
+            "score": 0.59230155,
+            "index": 41,
+            "word": "文",
+            "start": 40,
+            "end": 41
+        },
+        {
+            "entity": "VP",
+            "score": 0.41926932,
+            "index": 42,
+            "word": "次",
+            "start": 41,
+            "end": 42
+        },
+        {
+            "entity": "NA5",
+            "score": 0.66743886,
+            "index": 43,
+            "word": "春",
+            "start": 42,
+            "end": 43
+        },
+        {
+            "entity": "NA5",
+            "score": 0.45788074,
+            "index": 44,
+            "word": "秋",
+            "start": 43,
+            "end": 44
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99348265,
+            "index": 45,
+            "word": "，",
+            "start": 44,
+            "end": 45
+        },
+        {
+            "entity": "NB5",
+            "score": 0.7387522,
+            "index": 46,
+            "word": "紀",
+            "start": 45,
+            "end": 46
+        },
+        {
+            "entity": "NA5",
+            "score": 0.98493373,
+            "index": 47,
+            "word": "元",
+            "start": 46,
+            "end": 47
+        },
+        {
+            "entity": "NA5",
+            "score": 0.99762803,
+            "index": 48,
+            "word": "年",
+            "start": 47,
+            "end": 48
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.9920965,
+            "index": 49,
+            "word": "，",
+            "start": 48,
+            "end": 49
+        },
+        {
+            "entity": "NA5",
+            "score": 0.5288381,
+            "index": 50,
+            "word": "正",
+            "start": 49,
+            "end": 50
+        },
+        {
+            "entity": "NA5",
+            "score": 0.9616805,
+            "index": 51,
+            "word": "時",
+            "start": 50,
+            "end": 51
+        },
+        {
+            "entity": "NB2",
+            "score": 0.6699725,
+            "index": 52,
+            "word": "日",
+            "start": 51,
+            "end": 52
+        },
+        {
+            "entity": "NB2",
+            "score": 0.53570694,
+            "index": 53,
+            "word": "月",
+            "start": 52,
+            "end": 53
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99114835,
+            "index": 54,
+            "word": "，",
+            "start": 53,
+            "end": 54
+        },
+        {
+            "entity": "DB",
+            "score": 0.7983498,
+            "index": 55,
+            "word": "蓋",
+            "start": 54,
+            "end": 55
+        },
+        {
+            "entity": "NH",
+            "score": 0.9853298,
+            "index": 56,
+            "word": "其",
+            "start": 55,
+            "end": 56
+        },
+        {
+            "entity": "VH1",
+            "score": 0.8447824,
+            "index": 57,
+            "word": "詳",
+            "start": 56,
+            "end": 57
+        },
+        {
+            "entity": "T",
+            "score": 0.9443106,
+            "index": 58,
+            "word": "哉",
+            "start": 57,
+            "end": 58
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.583887,
+            "index": 59,
+            "word": "。",
+            "start": 58,
+            "end": 59
+        },
+        {
+            "entity": "VA",
+            "score": 0.8426577,
+            "index": 60,
+            "word": "至",
+            "start": 59,
+            "end": 60
+        },
+        {
+            "entity": "P",
+            "score": 0.9940649,
+            "index": 61,
+            "word": "於",
+            "start": 60,
+            "end": 61
+        },
+        {
+            "entity": "VP",
+            "score": 0.58789873,
+            "index": 62,
+            "word": "序",
+            "start": 61,
+            "end": 62
+        },
+        {
+            "entity": "NB2",
+            "score": 0.64762115,
+            "index": 63,
+            "word": "尚",
+            "start": 62,
+            "end": 63
+        },
+        {
+            "entity": "NA2",
+            "score": 0.55433065,
+            "index": 64,
+            "word": "書",
+            "start": 63,
+            "end": 64
+        },
+        {
+            "entity": "C",
+            "score": 0.9791014,
+            "index": 65,
+            "word": "則",
+            "start": 64,
+            "end": 65
+        },
+        {
+            "entity": "VH1",
+            "score": 0.95430136,
+            "index": 66,
+            "word": "略",
+            "start": 65,
+            "end": 66
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.99196625,
+            "index": 67,
+            "word": "，",
+            "start": 66,
+            "end": 67
+        },
+        {
+            "entity": "VG",
+            "score": 0.9921737,
+            "index": 68,
+            "word": "無",
+            "start": 67,
+            "end": 68
+        },
+        {
+            "entity": "NA5",
+            "score": 0.9742258,
+            "index": 69,
+            "word": "年",
+            "start": 68,
+            "end": 69
+        },
+        {
+            "entity": "NA5",
+            "score": 0.97694016,
+            "index": 70,
+            "word": "月",
+            "start": 69,
+            "end": 70
+        },
+        {
+            "entity": "SEMICOLONCATEGORY",
+            "score": 0.9460368,
+            "index": 71,
+            "word": "；",
+            "start": 70,
+            "end": 71
+        },
+        {
+            "entity": "NH",
+            "score": 0.9891219,
+            "index": 72,
+            "word": "或",
+            "start": 71,
+            "end": 72
+        },
+        {
+            "entity": "DF",
+            "score": 0.91019696,
+            "index": 73,
+            "word": "頗",
+            "start": 72,
+            "end": 73
+        },
+        {
+            "entity": "VGO",
+            "score": 0.6073631,
+            "index": 74,
+            "word": "有",
+            "start": 73,
+            "end": 74
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.98562634,
+            "index": 75,
+            "word": "，",
+            "start": 74,
+            "end": 75
+        },
+        {
+            "entity": "C",
+            "score": 0.8824991,
+            "index": 76,
+            "word": "然",
+            "start": 75,
+            "end": 76
+        },
+        {
+            "entity": "DV",
+            "score": 0.8664896,
+            "index": 77,
+            "word": "多",
+            "start": 76,
+            "end": 77
+        },
+        {
+            "entity": "VH1",
+            "score": 0.4618012,
+            "index": 78,
+            "word": "闕",
+            "start": 77,
+            "end": 78
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.98841643,
+            "index": 79,
+            "word": "，",
+            "start": 78,
+            "end": 79
+        },
+        {
+            "entity": "DC",
+            "score": 0.99401927,
+            "index": 80,
+            "word": "不",
+            "start": 79,
+            "end": 80
+        },
+        {
+            "entity": "VM",
+            "score": 0.9982419,
+            "index": 81,
+            "word": "可",
+            "start": 80,
+            "end": 81
+        },
+        {
+            "entity": "VC1W",
+            "score": 0.12406619,
+            "index": 82,
+            "word": "錄",
+            "start": 81,
+            "end": 82
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.9840762,
+            "index": 83,
+            "word": "。",
+            "start": 82,
+            "end": 83
+        },
+        {
+            "entity": "C",
+            "score": 0.99680024,
+            "index": 84,
+            "word": "故",
+            "start": 83,
+            "end": 84
+        },
+        {
+            "entity": "VH2",
+            "score": 0.7351443,
+            "index": 85,
+            "word": "疑",
+            "start": 84,
+            "end": 85
+        },
+        {
+            "entity": "C",
+            "score": 0.99615836,
+            "index": 86,
+            "word": "則",
+            "start": 85,
+            "end": 86
+        },
+        {
+            "entity": "VC2",
+            "score": 0.64218664,
+            "index": 87,
+            "word": "傳",
+            "start": 86,
+            "end": 87
+        },
+        {
+            "entity": "NI",
+            "score": 0.52592075,
+            "index": 88,
+            "word": "疑",
+            "start": 87,
+            "end": 88
+        },
+        {
+            "entity": "COMMACATEGORY",
+            "score": 0.9888949,
+            "index": 89,
+            "word": "，",
+            "start": 88,
+            "end": 89
+        },
+        {
+            "entity": "DB",
+            "score": 0.83918273,
+            "index": 90,
+            "word": "蓋",
+            "start": 89,
+            "end": 90
+        },
+        {
+            "entity": "NH",
+            "score": 0.98505616,
+            "index": 91,
+            "word": "其",
+            "start": 90,
+            "end": 91
+        },
+        {
+            "entity": "VH1",
+            "score": 0.5206228,
+            "index": 92,
+            "word": "慎",
+            "start": 91,
+            "end": 92
+        },
+        {
+            "entity": "T",
+            "score": 0.9951877,
+            "index": 93,
+            "word": "也",
+            "start": 92,
+            "end": 93
+        },
+        {
+            "entity": "PERIODCATEGORY",
+            "score": 0.99842644,
+            "index": 94,
+            "word": "。",
+            "start": 93,
+            "end": 94
+        }
+    ]
+}
