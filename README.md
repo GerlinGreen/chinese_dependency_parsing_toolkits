@@ -3,6 +3,11 @@ Collection of CKIP transformers, Spacy, UD-Kanbun, DDparser, for turning texts i
 
 
 ## CKIP Han Transformers
+- Requirement:
+  ```
+  pip install transformers==4.15.0
+  pip install torch==1.12.0
+  ```
 - Sample input direction: `testin/`
 - Sample output direction: `testout/shiji_max128_ckip/`
 - Sample command: `python ckip.py -i testin -o testout --lang han-chinese`
