@@ -2,14 +2,10 @@ import os
 import glob
 import json
 import transformers
+from util import write_file
 from argparse import ArgumentParser
 from transformers import pipeline, PreTrainedTokenizer
 
-
-def write_file(path, data) :
-    with open(path, "w", encoding="utf-8") as fw :
-        json.dump(data, fw, indent=4, ensure_ascii=False)
-    
 
 def word_entity(ckiptask, tokens) :
     token_list = []
@@ -43,8 +39,8 @@ def word_entity(ckiptask, tokens) :
 
 parser = ArgumentParser()
 parser.add_argument('-t', '--task', default="pos", help='pos, ws, fill-mask')
-parser.add_argument('-i', '--input_dir', help='path to the input folder (ltf files)')
-parser.add_argument('-o', '--output_dir', help='path to the output folder (json files)')
+parser.add_argument('-i', '--input_dir', help='path to the input folder')
+parser.add_argument('-o', '--output_dir', help='path to the output folder')
 parser.add_argument('--lang', default='chinese', help='Model language')
 
 args = parser.parse_args()
@@ -82,15 +78,18 @@ for doc in filenames :
     # print(data)
     output = {}
 
-    for text in data :
+    for t, text in enumerate(data) :
+        docid = doc.split(".")[0] + "_" + str(t)
+        output[docid] = {}
         tokens = classifier(text)
+        output[docid]["sentence"] = text
+        output[docid]["tokens"] = tokens
+
         if ckiptask == "pos" :
             token_list, entities = word_entity(ckiptask, tokens)
-            output["token_list"] = token_list
-            output["entities"] = entities
+            output[docid]["token_list"] = token_list
+            output[docid]["entities"] = entities
 
-        output["sentence"] = text
-        output["tokens"] = tokens
 
     output = str(output)
     while "'" in output :
